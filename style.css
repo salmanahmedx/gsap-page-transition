@@ -12,6 +12,10 @@ body {
     background: linear-gradient(260deg, #b75d62, #754d4f);
 }
 
+button {
+    cursor: pointer;
+}
+
 /* showcase section */
 
 .showcase {
